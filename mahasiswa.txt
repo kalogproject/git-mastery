@@ -3,3 +3,4 @@
 3 ega
 4 lisa
 5 dona
+6 eka
